@@ -10,7 +10,7 @@ WiMLDS is a community of women+ interested in machine learning and data science.
 
 We create opportunities for women+ to engage in technical and professional conversations in a positive, supportive environment by hosting talks by prominent female and non-binary data scientists, technical workshops, networking events and hack-a-thons. We are inclusive to anyone who supports our cause regardless of gender or technical background. However, in support of our mission, priority for certain events and opportunities will be given to women*. 
 
-\women+: _individuals who identify as female, non-binary, genderqueer, genderfluid, agender, and all minority genders_
+**women+: _individuals who identify as female, non-binary, genderqueer, genderfluid, agender, and all minority genders_**
 
 
 - **Accessibility**:
