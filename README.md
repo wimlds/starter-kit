@@ -4,13 +4,13 @@
 
 ## Overview of WiMLDS
 
-**Mission: Our mission is to support and promote women and non-binary individuals who are practicing, studying or are interested in the fields of machine learning and data science.** 
+**Mission: Our mission is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.** 
 
-WiMLDS is a community of women* interested in machine learning and data science. We host events which include talks by prominent data scientists, lightning talks, technical workshops and networking events. Our members include engineers, technologists, statisticians, students and many other professionals who work in data science or would like to transition into this field.
+WiMLDS is a community of women+ interested in machine learning and data science. We host events which include talks by prominent data scientists, lightning talks, technical workshops and networking events. Our members include engineers, technologists, statisticians, students and many other professionals who work in data science or would like to transition into this field.
 
-We create opportunities for women* to engage in technical and professional conversations in a positive, supportive environment by hosting talks by prominent female and non-binary data scientists, technical workshops, networking events and hack-a-thons. We are inclusive to anyone who supports our cause regardless of gender or technical background. However, in support of our mission, priority for certain events and opportunities will be given to women*. 
+We create opportunities for women+ to engage in technical and professional conversations in a positive, supportive environment by hosting talks by prominent female and non-binary data scientists, technical workshops, networking events and hack-a-thons. We are inclusive to anyone who supports our cause regardless of gender or technical background. However, in support of our mission, priority for certain events and opportunities will be given to women*. 
 
-\* _individuals who identify as female, non-binary, genderqueer, genderfluid, agender, and all minority genders_
+\+ _individuals who identify as female, non-binary, genderqueer, genderfluid, agender, and all minority genders_
 
 
 - **Accessibility**:
