@@ -16,7 +16,7 @@ We create opportunities for members to engage in technical and professional conv
 - **No commercial agenda**:
   Chapters are started by individuals, not by companies.  Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies.  Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
 - **Org Structure & Legal Entities**:
-  WiMLDS is a 501(c)3 non-profit corporation.
+  WiMLDS is a 501(c)3 non-profit corporation in New York state, USA.
 - **Web presence**:
     - Website: [https://www.wimlds.org](https://www.wimlds.org)
     - E-mail: info [at] wimlds [dot] org
