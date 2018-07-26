@@ -21,7 +21,7 @@ We create opportunities for members to engage in technical and professional conv
     - Website: [https://www.wimlds.org](https://www.wimlds.org)
     - E-mail: info [at] wimlds [dot] org
     - Twitter: [@wimlds](https://twitter.com/wimlds)
-    - Slack (exclusive for women & non-binary folks): [http://wimlds.slack.com](http://wimlds.slack.com).  To join, send an email to slack@wimlds.org introducing yourself.
+    - Slack (exclusive to women & gender minorities): [http://wimlds.slack.com](http://wimlds.slack.com).  To join, send an email to slack@wimlds.org introducing yourself.
     - GitHub: [http://github.com/wimlds](http://github.com/wimlds)
 
 ## Getting started
