@@ -11,6 +11,8 @@ We create opportunities for members to engage in technical and professional conv
 **_The term "women and gender minorities" is inclusive of individuals who identify as female, non-binary, genderqueer, genderfluid, agender, and all minority genders._**
 
 
+- **Leadership**: 
+Leadership roles within WiMLDS chapters, particularly organizer or co-organizer roles, are to be held by women and gender minorities.
 - **Accessibility**:
   Provision of FREE events based on a combination of volunteering and funding/sponsorship where available.
 - **No commercial agenda**:
