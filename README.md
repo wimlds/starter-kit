@@ -40,3 +40,9 @@ More information can be found on the [wiki](https://github.com/WiMLDS/starter-ki
 ## Wiki link
 
 <img src="https://github.com/WiMLDS/starter-kit/blob/master/figures/wikibutton.png" />
+
+
+---
+
+## Resources
+- [Awesome Organizer Resources](https://github.com/stephlocke/awesome-organiser-resources)
