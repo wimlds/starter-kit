@@ -25,6 +25,10 @@ Leadership roles within WiMLDS chapters, particularly organizer or co-organizer 
     - Twitter: [@wimlds](https://twitter.com/wimlds)
     - Slack (exclusive to women & gender minorities): [http://wimlds.slack.com](http://wimlds.slack.com).  To join, send an email to slack@wimlds.org introducing yourself.
     - GitHub: [http://github.com/wimlds](http://github.com/wimlds)
+    - YouTube:  [wimlds](https://www.youtube.com/playlist?list=PLHjgzDGO6BlVmphqGkXkEoasIthiz6DC-)
+    - Facebook Group:  [FB WiMLDS](https://www.facebook.com/groups/1543251712603090/)
+    - LinkedIn page to follow:  [WiMLDS LI page](https://www.linkedin.com/company/women-in-machine-learning-data-science/about/?viewAsMember=true)
+    - LinkedIn Group:  https://www.linkedin.com/groups/8466901/
 
 ## Getting started
 
@@ -47,3 +51,5 @@ More information can be found on the [wiki](https://github.com/WiMLDS/starter-ki
 ## Resources
 - [Awesome Organizer Resources](https://github.com/stephlocke/awesome-organiser-resources)
 - [10 Things I Learned Building the Paris WiMLDS Meetup](https://medium.com/@CarolineChavier/10-things-i-learned-building-the-paris-wimlds-meetup-e0b43e6e514e)
+- [Summary of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/)
+
