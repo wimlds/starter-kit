@@ -37,7 +37,9 @@ More information can be found on the [wiki](https://github.com/WiMLDS/starter-ki
 - [List of current chapters](https://github.com/WiMLDS/starter-kit/wiki/Current-chapters)
 - [Starting a new chapter](https://github.com/WiMLDS/starter-kit/wiki/Start-a-new-chapter)
 - [Organizing events](https://github.com/WiMLDS/starter-kit/wiki/Organizing-events)
-- [Code of conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)
+- Code of Conduct
+  - [English version](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)
+  - [Spanish version](https://github.com/WiMLDS/starter-kit/wiki/código-de-Conducta)
 - [Centralized resources](https://github.com/WiMLDS/starter-kit/wiki/Centralized-resources)
 - [Accessing your WiMLDS email address](https://github.com/WiMLDS/starter-kit/wiki/How-to-access-your-WiMLDS-email-address)
 
