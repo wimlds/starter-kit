@@ -53,5 +53,5 @@ More information can be found on the [wiki](https://github.com/WiMLDS/starter-ki
 ## Resources
 - [Awesome Organizer Resources](https://github.com/stephlocke/awesome-organiser-resources)
 - [10 Things I Learned Building the Paris WiMLDS Meetup](https://medium.com/@CarolineChavier/10-things-i-learned-building-the-paris-wimlds-meetup-e0b43e6e514e)
-- [Summary of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/)
-
+- [Summary of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/) Oct 2018
+- [WiMLDS map](https://www.meetup.com/topics/wimlds/)
