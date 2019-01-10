@@ -10,9 +10,9 @@ We create opportunities for members to engage in technical and professional conv
 
 **_The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders._**
 
-### Org Structure & Legal Entities
+### Organizational Structure & Legal Entities
 
-WiMLDS is a 501(c)3 non-profit corporation in New York state, USA.
+WiMLDS is a 501(c)3 non-profit corporation in New York, NY, USA.
 
 ## Agreements
 
