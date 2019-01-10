@@ -10,7 +10,6 @@ We create opportunities for members to engage in technical and professional conv
 
 **_The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders._**
 
-
 - **Leadership**: 
 Leadership roles within WiMLDS chapters, particularly organizer or co-organizer roles, are to be held by women and gender minorities.
 - **Accessibility**:
@@ -19,16 +18,20 @@ Leadership roles within WiMLDS chapters, particularly organizer or co-organizer 
   Chapters are started by individuals, not by companies.  Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies.  Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
 - **Org Structure & Legal Entities**:
   WiMLDS is a 501(c)3 non-profit corporation in New York state, USA.
-- **Web presence**:
-    - Website: [https://www.wimlds.org](https://www.wimlds.org)
-    - E-mail: info [at] wimlds [dot] org
-    - Twitter: [@wimlds](https://twitter.com/wimlds)
-    - Slack (exclusive to women & gender minorities): [http://wimlds.slack.com](http://wimlds.slack.com).  To join, send an email to slack@wimlds.org introducing yourself.
-    - GitHub: [http://github.com/wimlds](http://github.com/wimlds)
-    - YouTube:  [wimlds](https://www.youtube.com/playlist?list=PLHjgzDGO6BlVmphqGkXkEoasIthiz6DC-)
-    - Facebook Group:  [FB WiMLDS](https://www.facebook.com/groups/1543251712603090/)
-    - LinkedIn page to follow:  [WiMLDS LI page](https://www.linkedin.com/company/women-in-machine-learning-data-science/about/?viewAsMember=true)
-    - LinkedIn Group:  https://www.linkedin.com/groups/8466901/
+
+## Agreements
+- Organizers agree to organize at least one event every six months
+
+## WiMLDS Web Presence
+  - Website: [https://www.wimlds.org](https://www.wimlds.org)
+  - E-mail: info [at] wimlds [dot] org
+  - Twitter: [@wimlds](https://twitter.com/wimlds)
+  - Slack (exclusive to women & gender minorities): [http://wimlds.slack.com](http://wimlds.slack.com).  To join, send an email to slack@wimlds.org introducing yourself.
+  - GitHub: [http://github.com/wimlds](http://github.com/wimlds)
+  - YouTube:  [wimlds](https://www.youtube.com/playlist?list=PLHjgzDGO6BlVmphqGkXkEoasIthiz6DC-)
+  - Facebook Group:  [FB WiMLDS](https://www.facebook.com/groups/1543251712603090/)
+  - LinkedIn page to follow:  [WiMLDS LI page](https://www.linkedin.com/company/women-in-machine-learning-data-science/about/?viewAsMember=true)
+  - LinkedIn Group:  https://www.linkedin.com/groups/8466901/
 
 ## Getting started
 
