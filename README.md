@@ -16,15 +16,15 @@ WiMLDS is a 501(c)3 non-profit corporation in New York, NY, USA.
 
 ## Agreements
 
-- **Leadership**:  
+- **Leadership**  
 Leadership roles within WiMLDS chapters, particularly organizer or co-organizer roles, are to be held by women and gender minorities.
-- **Accessibility**:  
+- **Accessibility**  
 Provision of FREE events based on a combination of volunteering and funding/sponsorship where available.
-- **No commercial agenda**:  
+- **No commercial agenda**  
 Chapters are started by individuals, not by companies.  Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies.  Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
 
 ## Terms
-- **Event frequency**:  
+- **Event frequency**  
 Organizers agree to organize at least one event every six months
 
 ## WiMLDS Web Presence
