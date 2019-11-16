@@ -12,7 +12,7 @@ We create opportunities for members to engage in technical and professional conv
 
 ### Organizational Structure & Legal Entities
 
-WiMLDS is a 501(c)3 non-profit corporation in New York, NY, USA.  The organization started in San Francisco in 2013 (with [WiMLDS Bay Area](http://wimlds.org/chapters/about-the-bay-area-team/) and we now has [chapters](http://wimlds.org/chapters/) over the world.
+WiMLDS is a 501(c)3 non-profit corporation in New York, NY, USA.  The organization started in San Francisco, California in 2013 (with [WiMLDS Bay Area](http://wimlds.org/chapters/about-the-bay-area-team/)) and we now have [chapters](http://wimlds.org/chapters/) all over the world.
 
 ## Agreements
 
@@ -29,15 +29,15 @@ Organizers agree to organize at least one event every six months (though we enco
 
 ## WiMLDS Web Presence
 
-  - Website: [https://www.wimlds.org](https://www.wimlds.org)
+  - Website: [https://wimlds.org](https://wimlds.org)
   - E-mail: info [at] wimlds [dot] org
-  - Twitter: [@wimlds](https://twitter.com/wimlds)
+  - [@wimlds Twitter](https://twitter.com/wimlds) and a list of [chapter Twitter accounts](https://twitter.com/wimlds/lists/wimlds-chapters/members)
   - Slack (exclusive to women & gender minorities): [http://wimlds.slack.com](http://wimlds.slack.com).  To join, send an email to slack@wimlds.org introducing yourself.
   - GitHub: [http://github.com/wimlds](http://github.com/wimlds)
-  - YouTube:  [wimlds](https://www.youtube.com/playlist?list=PLHjgzDGO6BlVmphqGkXkEoasIthiz6DC-)
-  - Facebook Group:  [FB WiMLDS](https://www.facebook.com/groups/1543251712603090/)
-  - LinkedIn page to follow:  [WiMLDS LI page](https://www.linkedin.com/company/women-in-machine-learning-data-science/about/?viewAsMember=true)
-  - LinkedIn Group:  https://www.linkedin.com/groups/8466901/
+  - [YouTube](https://www.youtube.com/playlist?list=PLHjgzDGO6BlVmphqGkXkEoasIthiz6DC-)
+  - [Facebook Group](https://www.facebook.com/groups/1543251712603090/)
+  - [LinkedIn Organization](https://www.linkedin.com/company/women-in-machine-learning-data-science/about/?viewAsMember=true)
+  - [LinkedIn Group](https://www.linkedin.com/groups/8466901/)
 
 ## Getting started
 
