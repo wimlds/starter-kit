@@ -12,7 +12,7 @@ We create opportunities for members to engage in technical and professional conv
 
 ### Organizational Structure & Legal Entities
 
-WiMLDS is a 501(c)3 non-profit corporation in New York, NY, USA.
+WiMLDS is a 501(c)3 non-profit corporation in New York, NY, USA.  It was founded in San Francisco in 2013 ([Bay Area WiMLDS](http://wimlds.org/chapters/about-the-bay-area-team/) and we now has [chapters](http://wimlds.org/chapters/) over the world.
 
 ## Agreements
 
