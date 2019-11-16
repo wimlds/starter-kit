@@ -49,18 +49,9 @@ More information can be found on the [wiki](https://github.com/WiMLDS/starter-ki
 - Code of Conduct
   - [English version](https://github.com/WiMLDS/starter-kit/wiki/Code-of-Conduct)
   - [Spanish version](https://github.com/WiMLDS/starter-kit/wiki/Código-de-Conducta)
-- [Centralized resources](https://github.com/WiMLDS/starter-kit/wiki/Resources)
+- [Resources](https://github.com/WiMLDS/starter-kit/wiki/Resources)
 - [Accessing your WiMLDS email address](https://github.com/WiMLDS/starter-kit/wiki/How-to-access-your-WiMLDS-email-address)
 
 ## Wiki link
 
 <img src="https://github.com/WiMLDS/starter-kit/blob/master/figures/wikibutton.png" />
-
-
----
-
-## Resources
-- [Awesome Organizer Resources](https://github.com/stephlocke/awesome-organiser-resources)
-- [10 Things I Learned Building the Paris WiMLDS Meetup](https://medium.com/@CarolineChavier/10-things-i-learned-building-the-paris-wimlds-meetup-e0b43e6e514e)
-- [Summary of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/) Oct 2018
-- [WiMLDS map](https://www.meetup.com/topics/wimlds/)
