@@ -25,7 +25,7 @@ Chapters are started by individuals, not by companies.  Chapters can partner wit
 
 ## Terms
 - **Event frequency**  
-Organizers agree to organize at least one event every six months
+Organizers agree to organize at least one event every six months (though we encourage your chapter to have at least one event every 1-3 months).
 
 ## WiMLDS Web Presence
 
