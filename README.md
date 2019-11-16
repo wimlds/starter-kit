@@ -12,7 +12,7 @@ We create opportunities for members to engage in technical and professional conv
 
 ### Organizational Structure & Legal Entities
 
-WiMLDS is a 501(c)3 non-profit corporation in New York, NY, USA.  It was founded in San Francisco in 2013 ([Bay Area WiMLDS](http://wimlds.org/chapters/about-the-bay-area-team/) and we now has [chapters](http://wimlds.org/chapters/) over the world.
+WiMLDS is a 501(c)3 non-profit corporation in New York, NY, USA.  The organization started in San Francisco in 2013 (with [WiMLDS Bay Area](http://wimlds.org/chapters/about-the-bay-area-team/) and we now has [chapters](http://wimlds.org/chapters/) over the world.
 
 ## Agreements
 
@@ -47,9 +47,9 @@ More information can be found on the [wiki](https://github.com/WiMLDS/starter-ki
 - [Starting a new chapter](https://github.com/WiMLDS/starter-kit/wiki/Start-a-new-chapter)
 - [Organizing events](https://github.com/WiMLDS/starter-kit/wiki/Organizing-events)
 - Code of Conduct
-  - [English version](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)
-  - [Spanish version](https://github.com/WiMLDS/starter-kit/wiki/código-de-Conducta)
-- [Centralized resources](https://github.com/WiMLDS/starter-kit/wiki/Centralized-resources)
+  - [English version](https://github.com/WiMLDS/starter-kit/wiki/Code-of-Conduct)
+  - [Spanish version](https://github.com/WiMLDS/starter-kit/wiki/Código-de-Conducta)
+- [Centralized resources](https://github.com/WiMLDS/starter-kit/wiki/Resources)
 - [Accessing your WiMLDS email address](https://github.com/WiMLDS/starter-kit/wiki/How-to-access-your-WiMLDS-email-address)
 
 ## Wiki link
