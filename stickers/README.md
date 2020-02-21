@@ -23,8 +23,8 @@ When printing them, the sticker printer will typically ask for a sticker with so
 
 There are two version of our hex sticker:
 
-- A non-editable `.png` version _without_ a bleed area: [hex-logo-with-text.png](https://github.com/rladies/starter-kit/blob/master/stickers/hex-logo-with-text.png)
+- A non-editable `.png` version _without_ a bleed area: 
 
-- A `.psd` version which you can edit in Photoshop (if you do not have Photoshop but need edits, contact Bea). This one has a 3mm bleed which you can change: [hex-logo-with-text-3mmbleed.psd](https://github.com/rladies/starter-kit/blob/master/stickers/psd_files/hex-logo-with-text-3mmbleed.psd)
+- A `.psd` version which you can edit in Photoshop (if you do not have Photoshop but need edits, contact Bea). This one has a 3mm bleed which you can change: 
 
-There is also a `.psd` version of the template for stickermule in case you want to use it with a different hex sticker: [rladies-text-stickermule.psd](https://github.com/rladies/starter-kit/blob/master/stickers/psd_files/rladies-text-stickermule.psd)
+There is also a `.psd` version of the template for stickermule in case you want to use it with a different hex sticker: 
