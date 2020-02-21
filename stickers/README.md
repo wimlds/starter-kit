@@ -6,7 +6,9 @@ If you would like to print stickers from [stickermule.com](https://www.stickermu
 
 **Step by step**
 
-1) Go to [stickermule.com](https://www.stickermule.com/) and upload the artwork ([wimlds-hexagon-stickermule.png](https://github.com/wimlds/starter-kit/stickers/wimlds-hexagon-stickermule.png)):
+1) Go to [stickermule.com](https://www.stickermule.com/) and upload the artwork ([wimlds-hexagon-stickermule.png](https://github.com/wimlds/starter-kit/stickers/wimlds-hexagon-stickermule.png)). 
+
+Select Custom Sticker -> Die cut stickers. 
 
 ![image](https://github.com/laurburke/wimlds-cbus/blob/master/stickermule-step-1.png)
 
