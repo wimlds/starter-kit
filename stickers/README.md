@@ -2,7 +2,7 @@
 
 ### Stickermule
 
-If you would like to print stickers from [stickermule.com](https://www.stickermule.com/) you will need to download[wimlds-hexagon-stickermule.png](https://github.com/wimlds/starter-kit/stickers/wimlds-hexagon-stickermule.png). 
+If you would like to print stickers from [stickermule.com](https://www.stickermule.com/) you will need to download [wimlds-hexagon-stickermule.png](https://github.com/wimlds/starter-kit/stickers/wimlds-hexagon-stickermule.png). 
 
 **Step by step**
 
@@ -11,7 +11,6 @@ If you would like to print stickers from [stickermule.com](https://www.stickermu
 2) Go to checkout, enter your credit card or paypal (don't you worry, you will not pay until you review and approve the proof). You will get an email once the it is ready to be reviewed.
 
 3) The proof should look like this:
-
 
 4) You are now good to go! 
 
