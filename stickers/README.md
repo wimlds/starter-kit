@@ -12,7 +12,6 @@ If you would like to print stickers from [stickermule.com](https://www.stickermu
 
 3) The proof should look like this:
 
-![image](https://user-images.githubusercontent.com/1934546/32126617-7377b134-bb26-11e7-9594-5e987d600eb4.png)
 
 4) You are now good to go! 
 
