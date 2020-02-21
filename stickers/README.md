@@ -14,6 +14,8 @@ If you would like to print stickers from [stickermule.com](https://www.stickermu
 
 3) The proof should look like this:
 
+![image]https://github.com/laurburke/wimlds-cbus/blob/master/stickermule-step-2.png
+
 4) You are now good to go! 
 
 ### Other
