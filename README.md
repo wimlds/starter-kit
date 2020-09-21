@@ -8,7 +8,7 @@
 
 We create opportunities for members to engage in technical and professional conversations in a positive, supportive environment by hosting talks by women and gender minority individuals working in data science or machine learning, as well as hosting technical workshops, networking events and hackathons.  We are inclusive to anyone who supports our cause regardless of gender identity or technical background. However, in support of our mission, priority for certain events and opportunities will be given to women and gender minorities.
 
-**_The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders._**
+**_The term "women and gender minorities" is inclusive of individuals who identify as women (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders._**
 
 ### Organizational Structure & Legal Entities
 
